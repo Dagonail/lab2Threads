@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\bin\Debug\ThreadsFinalLab.exe.config
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\bin\Debug\ThreadsFinalLab.exe
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\bin\Debug\ThreadsFinalLab.pdb
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\obj\Debug\ThreadsFinalLab.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\obj\Debug\ThreadsFinalLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\obj\Debug\ThreadsFinalLab.exe
+C:\Users\User\Desktop\ThreadsFinalLab\ThreadsFinalLab\obj\Debug\ThreadsFinalLab.pdb
